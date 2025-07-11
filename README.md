@@ -1,4 +1,5 @@
-## Hi there 👋
+## WIP
+Targeting public release Fall 2025
 
 <!--
 **oseda-dev/oseda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
