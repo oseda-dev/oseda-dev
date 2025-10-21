@@ -1,17 +1,34 @@
-## WIP
-Targeting public release Fall 2025
+# **OSEDA**
 
-<!--
-**oseda-dev/oseda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/reesehatfield/cirrus">
+    <img src="./img/upscaled_template_logo.png" alt="OSEDA Logo" width="400" height="370">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center"><strong>OSEDA</strong></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Open Source Education Association
+  <br>
+</p>
+
+## What is OSEDA?
+OSEDA's mission is developing a marriage between the power of open source development and accessible education. We use the power of plain text markdown to intuitively design educational content. 
+
+We are targeting for a 2026 public release.
+
+
+## Tour
+
+### [OSEDA-CLI](https://github.com/oseda-dev/oseda-cli)
+CLI tool used to manage and deploy your OSEDA projects.
+
+### [OSEDA-LIB](https://github.com/oseda-dev/oseda-lib)
+Course library containing all approved courses.
+
+### [OSEDA-CORE](https://github.com/oseda-dev/oseda-core)
+Contains core OSEDA functionality.
+
+
+## Visit us at [oseda.net](https://oseda.net/)
