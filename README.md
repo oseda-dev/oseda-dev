@@ -1,8 +1,6 @@
-# **OSEDA**
-
 <p align="center">
-  <a href="https://github.com/reesehatfield/cirrus">
-    <img src="./img/upscaled_template_logo.png" alt="OSEDA Logo" width="400" height="370">
+  <a href="https://github.com/oseda-dev/oseda">
+    <img src="./img/OsedaLogoDark.png" alt="OSEDA Logo" width="400" height="370">
   </a>
 </p>
 
