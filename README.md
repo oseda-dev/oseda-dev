@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/oseda-dev/oseda">
-    <img src="./img/OsedaLogoDark.png" alt="OSEDA Logo" width="400" height="370">
+    <img src="./img/OsedaLogoDark.png" alt="OSEDA Logo" width="350" height="370">
   </a>
 </p>
 
