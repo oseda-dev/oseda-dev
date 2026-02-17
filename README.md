@@ -12,9 +12,15 @@
 </p>
 
 ## What is OSEDA?
-OSEDA's mission is developing a marriage between the power of open source development and accessible education. We use the power of plain text markdown to intuitively design educational content. 
+OSEDA is a comprehensive <a href="https://github.com/oseda-dev/" target="_blank">open-source</a> platform for creating, distributing, and hosting educational presentations.
+It includes a powerful
+<a href="https://github.com/oseda-dev/oseda-cli" target="_blank">CLI</a>
+for bootstrapping, running, and testing
+<a href="https://revealjs.com/" target="_blank">Reveal.js</a>
+presentations, as well as a simple deploy command that publishes your course to <a href="https://oseda.net">oseda.net</a> automatically via
+<a href="https://github.com/oseda-dev/oseda-lib" target="_blank">GitHub</a>.
+Once approved by our team, your course is automatically deployed publicly, and you are given a dedicated author page on <a href="https://oseda.net">oseda.net</a>.
 
-We are targeting for a 2026 public release.
 
 
 ## Tour
