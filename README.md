@@ -12,7 +12,7 @@
 </p>
 
 ## What is OSEDA?
-OSEDA is a comprehensive <a href="https://github.com/oseda-dev/" target="_blank">open-source</a> platform for creating, distributing, and hosting educational presentations.
+OSEDA is a comprehensive <a href="https://github.com/oseda-dev/" target="_blank">open-source</a> platform and toolset for creating, distributing, and hosting educational presentations and content.
 It includes a powerful
 <a href="https://github.com/oseda-dev/oseda-cli" target="_blank">CLI</a>
 for bootstrapping, running, and testing
@@ -33,6 +33,9 @@ Course library containing all approved courses.
 
 ### [OSEDA-CORE](https://github.com/oseda-dev/oseda-core)
 Contains core OSEDA functionality.
+
+### [ATTEND](https://github.com/oseda-dev/attend)
+A lightweight classroom attendance tracking CLI
 
 
 ## Visit us at [oseda.net](https://oseda.net/)
