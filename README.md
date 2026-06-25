@@ -37,5 +37,8 @@ Contains core OSEDA functionality.
 ### [ATTEND](https://github.com/oseda-dev/attend)
 A lightweight classroom attendance tracking CLI
 
+### [CODEPOINT](https://github.com/oseda-dev/codepoint)
+A typst library for creating programing exams and documents
+
 
 ## Visit us at [oseda.net](https://oseda.net/)
